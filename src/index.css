@@ -1,0 +1,13 @@
+html, 
+body {
+    --bs-alert-bg: #00A884 !important;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: #111B21;
+};
+
+.alert-primary {
+    background-color: #00A884;
+}
